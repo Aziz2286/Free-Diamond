@@ -1,0 +1,63 @@
+input [type="text"]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border:  none;
+	border-bottom: 2px solid;
+}
+input [type="text"]:focus {
+	border: 3px solid #555;
+}
+input [type="submit"]{
+	background-color: #04AA6D;
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+input [type="text"]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border:  none;
+	border-bottom: 2px solid;
+}
+input [type="text"]:focus {
+	border: 3px solid #555;
+}
+input [type="email"]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border:  none;
+	border-bottom: 2px solid;
+}
+input [type="email"]:focus {
+	border: 3px solid #555;
+}
+input [type="password"]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border:  none;
+	border-bottom: 2px solid;
+}
+input [type="password"]:focus {
+	border: 3px solid #555;
+}
+input [type="number"]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border:  none;
+	border-bottom: 2px solid;
+}
+input [type="number"]:focus {
+	border: 3px solid #555;
+}
